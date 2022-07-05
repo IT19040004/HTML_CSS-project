@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluskadmindashboard",
+  "private_key_id": "1cc8f1e78fab5ace0a882e93943a131501643b95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9mahAf2C9I1Sf\ndkKGBJXlrshBWpQkOMRrLBRDUktRB8EvVTq/IsFkWSnE08MFOQmsP3XdDmneFuzB\ndbGOz8fBfBAfjJ+YGrNYMFwQ7UlHLAW9hmuOdP/0NYkNoVEq7IbLj0s6ebFp6Yuv\nOqKH0W8RSkbrMWebEuMMJLNqreVuhoSCeyxhh96U584fU1w7SgyTZBzAvun4pOFM\nTNtZ3N53h/uYMlmR7Pz7dCzMxq7rFIn9k0BI8Aloztq9CCs0l+3L3EvRpIfd2RVA\ntAQrkocPGcpiaJyXULiY0TFTLLugr/ouOEoFopIv0RAi8PzspdIfDiwI2CUkSUe8\nwrrDdviRAgMBAAECggEAKu64YqJ1TV7KsrEcrywqpS/GuMXB9dHE6F+61uOzmk2f\nORCblNxR3l8yTheFeZFI13AnSD8TSe72/XehFS2HlhB5tispmE+zfKy2rD6O8UbO\npfPiNwfXTX0x45w7vPSCMWXpKvyTZ+AyeSNV2ltaQxgGpwsw4rSMJRvKZMWrxjLb\n2BBh9g0ie6ni+afJVHV+4JmcWxa+t8r3HMbOYKDucPvH28dCpkww9cw7Ha/ZNQN+\nM9gvyG2OTKSzAeYy6dyCK1hmWmiggCPxK7PWDfPWdOutHMDOQsLa/Bv+yGAIZV0E\nhU0nQxTThymsZkB0XPP1slcFGTyoxLpQfTg22xqwgQKBgQDcZ/tZlyi+8XcqefRN\n2MqkTptG2kTFFVqKvmqeB+xn7Gl+W+5xBf/avOsszRbmtxm/ojqKrcztDatVDBTI\nTpDTVNzj8sQKAzF033pPhI0+/soCuBV4jGfT0brU34YstDOIHqkaAXkigSyOV6Gf\nmYAx329SIdlF24Osj4IxVu4NbQKBgQDcOBj5dYOMPCL3N1VYJPewwR5zjzRIPhGj\nA4AQM7phiJi/WPxPim2hLMfqKSzVgXUlUFV5AtM6Q+bxorciCPP9NdCXtcTXIV/6\npDWsV1vfcUrqKMYMGyzUyXN3AuuvibgICFqqsvG0wQuscGsyT9RLiuPdEm/dMLSt\n9BsRKf1VNQKBgQCRG1hM7Irj4z9sVKw2EFOhhysNo6gBBQT+MU0qS9cluGzfxxCd\nkrCWxygh78hzDvtBwkG+iZxQOV6ieHi6Q5dvuwBOhsbwPJfz9SmmboM7hS1kSuO/\n4Nh+iSby/VJt3hnLNTxppaylvduivyjmVX4j15GHxkcwicwP8M9rQmsppQKBgE77\na7GkvQ6BzwSdeuWHNLLXQKWvmc/DOy4dJkQpWVJ73FTchHm+qz0gQ38vT14v9STx\n4AXrxnhiPCUz97ykO2X4dBzFW5jQ5oyNcpaiKlhEWNsMzqMu5/BVZC0uBfvKSA/R\ndzs7vMbYaehp1XiQ+xIw+TKj1y0ct+Cf6UlJpwt1AoGAUtQvOacuKGNIOfc0et7P\ncbPP8liEN6HTzs3FBexv9muCpTgKgIYJRzkZgl0tdTus8AmozO9Fj7ZeOp9TODTp\naYyw4si0+3qrhFvOQ1juqVP+C2o3rgQekdLu12eP+m50RPxNrFK3YqKwhWnZrwgT\noZk0HPzecTFItpD8wjKPsxA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-q8y5l@fluskadmindashboard.iam.gserviceaccount.com",
+  "client_id": "118127751308588138532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-q8y5l%40fluskadmindashboard.iam.gserviceaccount.com"
+}

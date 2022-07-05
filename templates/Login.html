@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>NavBar</title>
+        
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body>
+        <div class="container">
+        <div class="logo">
+                <a href="#" title="Logo">
+                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Restaurant Logo" class="img-responsive">
+                </a>
+            </div>
+            <input type="checkbox" id="flip">
+            <div class="cover">
+                <div class="front">
+                    <img  src="{{ url_for('static', filename='images/dp.jpg') }}" alt="">
+                </div>  
+            </div>
+            <form action="/Login"  method="post">
+                <div class="form-content">
+                    <div class="login-form">
+                        <div class="title">SignIn</div>
+                        <div class="input-boxes">
+                        <div class="input-box">
+                            <i class="fas fa-envelope"></i>
+                            <input type="email" name="email" placeholder="Enter your email" required>
+                    </div>
+                    <div class="input-box">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" name="password" placeholder="Enter your password" required>
+                    </div>
+                        <div class="button input-box">
+                            <input type="submit" value="LOGIN">
+                        </div>
+                        <div class="text login-text">Don't have an account? <label for="flip"> Signup now</label></div>
+                    </div>
+                </div>
+            </form>
+                
+                <form action="/register"  method="post">
+                <div class="signup-form">
+                    <div class="title">Signup</div>
+                        <div class="input-boxes">
+                        <div class="input-box">
+                            <i class="fas fa-user"></i>
+                            <input type="text" name="user" placeholder="Enter your name" required>
+                        </div>
+                        <div class="input-box">
+                            <i class="fas fa-envelope"></i>
+                            <input type="email" name="email" placeholder="Enter your email" required>
+                        </div>
+                        <div class="input-box">
+                            <i class="fas fa-lock"></i>
+                            <input type="password" name="password" placeholder="Enter your password" required>
+                        </div>
+                        <div class="button input-box">
+                            <input type="submit" value="SIGN UP">
+                        </div>    
+                            <div class="text signup-text">Already have an account? <label for="flip"> Signin now</label></div>
+
+                        </div>
+                    </div> 
+                    </form>                
+                </div>
+        </div>                     
+    </body>
+</html>
